@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StringersBell
-- 👀 I’m interested in web development/backend development, primarily using Django, Javascript, Postgres, and Redis
+- 👀 I’m interested in web development/backend development, primarily using Django, Javascript, Postgres, Redis, and AWS
 - 🌱 I’m currently learning nodejs, vue.js, and go
 - 💞️ I’m looking to collaborate on Django projects, and Javascript projects
 - 📫 How to reach me email me: mpumelelozungudev@gmail.com
